@@ -3,7 +3,8 @@
 //  duplicateReverse
 //
 //  Created by Nicole Yap on 28/2/22.
-//
+
+// duplicateReverse() is a function that creates a copy of the original linked list but in reverse form
 
 #include <stdio.h>
 #include <stdlib.h>
